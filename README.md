@@ -213,7 +213,7 @@ Connected directly to the MySQL warehouse with 6 visualizations and 3 interactiv
 
 ## 👤 Author
 
-**Karthik**
+**Karthik Sai R**
 
 ---
 
